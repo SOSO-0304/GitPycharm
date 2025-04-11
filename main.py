@@ -27,3 +27,6 @@ if __name__ == '__main__':
 
     # Updates in local master ranch
     print_hi("Hello World Updates on Local Master Branch")
+
+    # Updates on mainbranch of GitHub
+    print("Hello World Updates on GitHub")
