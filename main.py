@@ -30,3 +30,7 @@ if __name__ == '__main__':
 
     # Updates on mainbranch of GitHub
     print("Hello World Updates on GitHub")
+
+    # Updates on main branch of GitHub
+    print_hi("Hello World Updates 2 on GitHub")
+
