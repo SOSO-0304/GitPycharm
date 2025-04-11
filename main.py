@@ -11,14 +11,17 @@ def print_hi(name):
 
 # 스크립트를 실행하려면 여백의 녹색 버튼을 누릅니다.
 if __name__ == '__main__':
-    print_hi('Hello World')
+    print('Hello World')
 
     # adding new item in hotfix
-    print_hi('Hello World 2')
+    print('Hello World 2')
+
+    # adding new item in master branch
+    print('Hello World 3')
 
     # adding new item in hotfix
-    print_hi('Hello World 3')
+    print('Hello World 4')
 
-    # adding new item in hotfix
-    print_hi('Hello World 4')
+    # adding new item in master branch
+    print('Hello World 5')
 # https://www.jetbrains.com/help/pycharm/에서 PyCharm 도움말 참조
